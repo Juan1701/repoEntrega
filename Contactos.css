@@ -6,3 +6,14 @@
     flex-direction: row;
     
 }
+
+main{
+    height: 700px;
+    background-image: url(New\ york\ 2.jpg);
+    object-fit: cover;
+    font-weight: 600;
+}
+
+#boton{
+    margin-top: 15px;
+}
