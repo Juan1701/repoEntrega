@@ -3,15 +3,26 @@
     padding: 0;
 }
 
-.card{
+#card{
     margin-top: 150px;
     display: flex;
     
 }
 
+header{
+    background-image: url(Fondo\ Web\ 2.jpg);
+    height: 500px;
+    width: 100%;
+}
+.gif{
+    height: 400px;
+    width: 400px;
+    align-items: center;
+}
+
 main{
     height: 700px;
-    background-image: url(Fondo\ nuevo2.jpg);
+    background-image: url(Fondo\ nuevo\ 3.jpg);
     font-weight: 700;
     background-repeat: no-repeat;
 
@@ -19,4 +30,22 @@ main{
 
 .fondo{
     width: 100%;
+}
+
+footer{
+    background-color: black;
+    height: 200px;
+}
+
+.card{
+    margin-top: 15px;
+}
+
+#ubicacion{
+    font-weight: 750;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+#Calle{
+    color: rgb(201, 8, 8);
 }

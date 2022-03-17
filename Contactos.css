@@ -12,8 +12,37 @@ main{
     background-image: url(New\ york\ 2.jpg);
     object-fit: cover;
     font-weight: 600;
+    
+}
+
+#contenedores{
+    margin: 25px;
+}
+
+.row{
+    justify-content: space-between
 }
 
 #boton{
     margin-top: 15px;
+    align-items: center;
+}
+
+footer{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+    margin-top: 15px;
+}
+
+#ubicacion{
+    font-weight: 750;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+#Calle{
+    color: rgb(201, 8, 8);
 }
