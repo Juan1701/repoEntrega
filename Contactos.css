@@ -1,0 +1,8 @@
+
+
+.navbar-nav{
+    display: flex!important;
+    flex-basis: auto;
+    flex-direction: row;
+    
+}

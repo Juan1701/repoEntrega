@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    margin-top: 150px;
+    display: flex;
+    
+}
+
+main{
+    height: 700px;
+    background-image: url(Fondo\ nuevo2.jpg);
+    font-weight: 700;
+    background-repeat: no-repeat;
+
+}
+
+.fondo{
+    width: 100%;
+}
